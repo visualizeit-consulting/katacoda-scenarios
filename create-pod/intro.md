@@ -8,7 +8,7 @@ This is a code block
 ```
 
 `this is more code`
-
+<pre>
 ```
 apiVersion: v1
 kind: Pod
@@ -22,5 +22,6 @@ spec:
     image: busybox
     command: ['sh', '-c', 'echo Hello Kubernetes! && sleep 3600']
 ```
+</pre>
 
 Version 0.1
