@@ -2,7 +2,7 @@
   "title": "Create Naked Pod",
   "description": "Create and run a Pod without a deployment",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "20 minutes",
   "details": {
     "steps": [
       {
