@@ -8,7 +8,7 @@ This is a code block
 ```
 
 `this is more code`
-<pre>
+<pre class="file" data-target="clipboard">
 ```
 apiVersion: v1
 kind: Pod
@@ -22,6 +22,10 @@ spec:
     image: busybox
     command: ['sh', '-c', 'echo Hello Kubernetes! && sleep 3600']
 ```
+</pre>
+
+<pre>
+This is inside the pre tag
 </pre>
 
 Version 0.1
